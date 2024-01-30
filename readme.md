@@ -10,3 +10,4 @@
 
 - Added JavaScript
 - Finished the JavaScript
+- Added Comments
