@@ -9,3 +9,4 @@
 ## Notes
 
 - Added JavaScript
+- Finished the JavaScript
